@@ -14,7 +14,7 @@ Ağırlıklı olarak **React ekosistemi**, **web tabanlı uygulamalar**, **API g
 ## 🧩 Uzmanlık Alanlarım
 
 - **Frontend:** React, React Native, TypeScript, JavaScript  
-- **Backend:** Python, FastAPI, Node.js (temel)  
+- **Backend:** Python, FastAPI 
 - **Veritabanı:** PostgreSQL, Microsoft SQL Server  
 - **API Geliştirme:** RESTful API tasarımı  
 - **Tam Yığın Yaklaşımı:** Web tabanlı uygulama tasarımı, mimari ve uygulama geliştirme  
@@ -24,7 +24,7 @@ Ağırlıklı olarak **React ekosistemi**, **web tabanlı uygulamalar**, **API g
 ## 🚀 Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,python,fastapi,postgres,sqlite,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git,github,vscode,figma" />
 </p>
 
 ---
