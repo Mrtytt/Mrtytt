@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Murat&fontSize=45&color=1e293b&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mrtytt&fontAlign=50&fontAlignY=40&color=0:0a1d37,100:1d4ed8&desc=Software%20Developer&descAlignY=60&fontColor=ffffff" />
 </p>
 
 # 👋 Merhaba, ben Murat
