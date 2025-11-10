@@ -1,30 +1,30 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mrtytt&fontAlign=50&fontAlignY=40&color=0:0a1d37,100:1d4ed8&desc=Software%20Developer&descAlignY=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Murat&fontSize=45&color=1e293b&fontColor=ffffff" />
 </p>
 
-# 👋 Merhaba, ben Mert
+# 👋 Merhaba, ben Murat
 
-Modern web teknolojileriyle çalışan, kullanıcı odaklı ve sürdürülebilir yazılım geliştirmeye önem veren bir geliştiriciyim.  
-Kod yazarken **temizlik, performans ve ölçeklenebilirlik** temel önceliklerimdir.  
-Yeni teknolojileri hızlıca benimsemeyi, sürekli öğrenmeyi ve projelere değer katmayı hedeflerim.
+Sade, düzenli ve kullanıcı odaklı yazılımlar geliştirmeyi seven bir geliştiriciyim.  
+Önceliğim her zaman **çalışan, anlaşılır ve sürdürülebilir** uygulamalar üretmek.  
+Ağırlıklı olarak **React ekosistemi**, **web tabanlı uygulamalar**, **API geliştirme** ve **veritabanı tasarımı** alanında çalışıyorum.
 
 ---
 
 ## 🧩 Uzmanlık Alanlarım
 
-- **Front-end geliştirme** – React, Next.js  
-- **TypeScript ve modern JavaScript mimarileri**  
-- **UI/UX odaklı tasarım & component-driven development**  
-- API entegrasyonları, backend temelleri (Node.js)  
-- Performans, accessibility ve optimizasyon  
+- **Frontend:** React, React Native, TypeScript, JavaScript  
+- **Backend:** Python, FastAPI, Node.js (temel)  
+- **Veritabanı:** PostgreSQL, Microsoft SQL Server  
+- **API Geliştirme:** RESTful API tasarımı  
+- **Tam Yığın Yaklaşımı:** Web tabanlı uygulama tasarımı, mimari ve uygulama geliştirme  
 
 ---
 
-## 🚀 Teknoloji Yığınım
+## 🚀 Teknolojiler
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,html,css,tailwind,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,python,fastapi,postgres,sqlite,vscode,git,github" />
 </p>
 
 ---
@@ -32,60 +32,48 @@ Yeni teknolojileri hızlıca benimsemeyi, sürekli öğrenmeyi ve projelere değ
 ## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mrtytt&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtytt&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mrtytt&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtytt&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Aktiflik Çizgisi
+## 🔥 Aktiflik
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mrtytt&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Mrtytt&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🗂️ Öne Çıkan Proje Alanlarım
+## 💼 Çalışma Tarzım
 
-### ✅ Front-end Projeleri
-- Modern UI kitaplıklarıyla responsive arayüzler  
-- Component bazlı mimari & state yönetimi  
-- Progressive & performans odaklı web uygulamaları  
-
-### ✅ Backend & API
-- REST API entegrasyonları  
-- Node.js tabanlı servisler  
-- Authentication & authorization temelleri  
-
-### ✅ Tasarım & Deneyim
-- Figma ile UI prototipleri  
-- UX-first yaklaşım  
-- Clean & modern estetik  
+- Sakin, düzenli ve odaklı bir geliştirme yaklaşımı  
+- Gereksiz karmaşadan uzak, açık ve okunabilir kod  
+- Renklerden çok **işlevselliğe** önem veren modern tasarımlar  
+- Kullanıcı deneyimi & performans odaklı geliştirme alışkanlığı  
+- Öğrenmeyi, geliştirmeyi ve keşfetmeyi seven bir bakış açısı  
 
 ---
 
-## 💼 Profesyonel Profil
+## 🛠️ İlgi Alanlarım
 
-🧠 **Analitik düşünce** → Problemleri parçalara bölüp çözmeyi severim.  
-🎨 **Tasarım hassasiyeti** → Kullanıcı deneyimi benim için kritik.  
-⚡ **Hızlı adaptasyon** → Yeni teknolojilere çabuk uyum sağlarım.  
-🤝 **Ekip uyumu** → İşbirliğini ve açık iletişimi önemserim.  
+- Web tabanlı mimariler  
+- Modern UI/UX yaklaşımları  
+- Mobil uygulama geliştirme (React Native)  
+- API performans optimizasyonu  
+- Veritabanı tasarımı ve veri modelleme  
 
 ---
 
 ## 📬 İletişim
 
 <p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 “Profesyonellik; netlik, tutarlılık ve detaylara verilen değerden doğar.”
+### 🧘‍♂️ “Sessiz çalışırım, kodum konuşur.”
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&color=0:1d4ed8,100:0a1d37" />
-</p>
