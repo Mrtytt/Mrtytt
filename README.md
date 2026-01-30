@@ -75,5 +75,3 @@ Ağırlıklı olarak **React ekosistemi**, **web tabanlı uygulamalar**, **API g
 
 ---
 
-### 🧘‍♂️ “Sessiz çalışırım, kodum konuşur.”
-
