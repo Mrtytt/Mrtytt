@@ -1,60 +1,92 @@
-<!-- Founder / CTO profile banner -->
+<!-- Premium Founder / CTO GitHub Profile -->
 
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=rect&height=190&text=Murat%20Berk%20Yeti%C5%9Ftirir&fontAlign=50&fontAlignY=38&fontSize=36&color=0:050B14,55:0B1F3A,100:1D4ED8&desc=Founder%20%26%20CTO%20at%20Cody%20%7C%20Building%20AI-assisted%20enterprise%20platforms&descAlign=50&descAlignY=62&descSize=15&fontColor=F8FAFC"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;section=header&amp;color=0:050B14,50:0B1F3A,100:1D4ED8&amp;text=Murat%20Berk%20Yeti%C5%9Ftirir&amp;fontSize=46&amp;fontAlignY=36&amp;fontColor=F8FAFC&amp;animation=fadeIn&amp;desc=Founder%20and%20CTO%20at%20Cody&amp;descSize=18&amp;descAlignY=57"
     alt="Murat Berk Yetiştirir - Founder and CTO at Cody"
   />
 </p>
 
+<h1 align="center">Murat Berk Yetiştirir</h1>
+<h3 align="center">Founder &amp; CTO at <a href="https://codyworks.com/">Cody</a></h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=23&amp;duration=3600&amp;pause=900&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=62&amp;lines=Founder+and+CTO+at+Cody;AI-Assisted+Enterprise+Product+Engineering;Metadata-First+ERP+and+SaaS+Architecture;Business+Runtime+Systems"
+      alt="Founder and CTO profile typing animation"
+    />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://codyworks.com/">
-    <img src="https://img.shields.io/badge/Cody-codyworks.com-1D4ED8?style=for-the-badge&logoColor=white" alt="Cody" />
+    <img src="https://img.shields.io/badge/Cody-Enterprise%20Platform-1D4ED8?style=for-the-badge&amp;logoColor=white" alt="Cody" />
   </a>
   <a href="https://www.linkedin.com/in/murat-berk-yeti%C5%9Ftirir-040b4023a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Executive%20Profile-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Mrtytt">
-    <img src="https://img.shields.io/badge/GitHub-Mrtytt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Mrtytt-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI--Assisted%20Engineering-0B1F3A?style=for-the-badge&amp;labelColor=050B14" alt="AI-Assisted Engineering" />
+  <img src="https://img.shields.io/badge/ERP%20and%20SaaS%20Architecture-1D4ED8?style=for-the-badge&amp;labelColor=050B14" alt="ERP and SaaS Architecture" />
+  <img src="https://img.shields.io/badge/Metadata--First%20Systems-2563EB?style=for-the-badge&amp;labelColor=050B14" alt="Metadata-First Systems" />
+  <img src="https://img.shields.io/badge/Controlled%20Runtime%20Operations-334155?style=for-the-badge&amp;labelColor=050B14" alt="Controlled Runtime Operations" />
 </p>
 
 ## Executive Introduction
 
-I'm Murat Berk Yetiştirir, Founder & CTO of Cody.
-
-I build enterprise software platforms at the point where business requirements, product architecture, and runtime systems meet. My work focuses on turning complex operational needs into durable software infrastructure, not only isolated features.
-
-At Cody, I lead the technical direction for AI-assisted product engineering: from requirement analysis and metadata design to backend services, interfaces, workflows, and governance models that can support real business operations.
+<table>
+  <tr>
+    <td width="58%">
+      <strong>I'm Murat Berk Yetiştirir, Founder &amp; CTO of Cody.</strong><br /><br />
+      I build enterprise software platforms where business requirements, product architecture, backend services, and runtime experiences converge. My work is focused on product infrastructure that can survive real operational complexity, not isolated feature delivery.
+    </td>
+    <td width="42%">
+      <strong>Operating thesis</strong><br /><br />
+      Business requirements should become governed software systems: modeled clearly, executed deterministically, assisted by AI where it creates leverage, and controlled where reliability matters.
+    </td>
+  </tr>
+</table>
 
 ## Building Cody
 
-Cody is an AI-assisted enterprise product development platform for translating business requirements into working software systems. Its architecture is metadata-first, centered on dynamic tables, forms, grids, actions, permissions, reports, document flows, and workspace experiences for configurable ERP and SaaS applications.
+Cody is an AI-assisted enterprise product development platform for translating business requirements into working software systems. It is designed around metadata-first application architecture, configurable ERP/SaaS foundations, and auditable runtime operations.
 
-Selected areas of the platform:
+<table>
+  <tr>
+    <td width="50%"><strong>Requirement Intelligence</strong><br />AI-assisted analysis that turns business intent into structured product and system definitions.</td>
+    <td width="50%"><strong>Metadata-First Architecture</strong><br />Modules, entities, fields, relationships, views, forms, grids, actions, permissions, and reports managed as a coherent source of truth.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Runtime Workspace</strong><br />Dynamic business surfaces for records, workflows, lifecycle actions, document generation, reporting, and operational execution.</td>
+    <td width="50%"><strong>Governed Automation</strong><br />Controlled AI-assisted operations with trusted backend services, authorization, idempotency, audit trails, and transaction safety.</td>
+  </tr>
+</table>
 
-- AI-assisted requirement analysis with controlled handoff to deterministic services
-- Metadata-first application modeling across modules, entities, fields, relationships, and views
-- Dynamic enterprise UI surfaces for forms, grids, actions, and runtime workspaces
-- Business actions, lifecycle orchestration, workflow automation, reports, and document systems
-- Multi-tenant ERP/SaaS foundations with permissions, governance, auditability, and runtime controls
-
-[Explore Cody ->](https://codyworks.com/)
+<p align="center">
+  <a href="https://codyworks.com/">
+    <img src="https://img.shields.io/badge/Explore%20Cody-codyworks.com-1D4ED8?style=for-the-badge&amp;logoColor=white" alt="Explore Cody" />
+  </a>
+</p>
 
 ## What I Build
 
-**Enterprise Platforms**  
-Systems that connect product strategy, domain rules, data models, authorization, and operational workflows into maintainable software foundations.
-
-**AI-Assisted Product Engineering**  
-Structured product development flows where AI can assist with analysis and planning while trusted services execute controlled system changes.
-
-**Dynamic Runtime Systems**  
-Metadata-driven application layers for forms, grids, actions, reports, documents, and workspace experiences that can adapt without rebuilding the product from zero.
-
-**Workflow and Business Automation**  
-Action engines, lifecycle transitions, approvals, validations, audit trails, and transaction-safe operations for business-critical software.
+<table>
+  <tr>
+    <td width="50%"><strong>Enterprise Platforms</strong><br />Product foundations that connect domain rules, authorization, data models, workflows, and operational UX into maintainable systems.</td>
+    <td width="50%"><strong>AI-Assisted Product Engineering</strong><br />Structured development flows where AI supports analysis and planning while deterministic services perform controlled execution.</td>
+  </tr>
+  <tr>
+    <td width="50%"><strong>Dynamic Runtime Systems</strong><br />Metadata-driven layers for forms, grids, actions, reports, documents, and workspace experiences that adapt without rebuilding from zero.</td>
+    <td width="50%"><strong>Workflow and Business Automation</strong><br />Action engines, lifecycle transitions, approvals, validations, audit trails, and transaction-safe operations for business-critical software.</td>
+  </tr>
+</table>
 
 ## Technical Direction
 
@@ -69,25 +101,29 @@ Action engines, lifecycle transitions, approvals, validations, audit trails, and
   </tr>
   <tr>
     <td><strong>Frontend</strong></td>
-    <td>React, TypeScript, Vite, Next.js, React Native, Dynamic Forms and Grids</td>
+    <td>React, TypeScript, Vite, Next.js, React Native, Dynamic Forms, Dynamic Grids</td>
   </tr>
   <tr>
     <td><strong>Data &amp; Infrastructure</strong></td>
-    <td>Microsoft SQL Server, PostgreSQL, Docker, Authentication and Authorization, Transactions, Idempotency, Audit and Observability</td>
+    <td>Microsoft SQL Server, PostgreSQL, Docker, Authentication, Authorization, Transactions, Idempotency, Audit, Observability</td>
   </tr>
 </table>
 
-## Technology Strip
+## Technology Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,nodejs,python,fastapi,postgres,docker,git,github,vscode"
-    alt="Core technology icons"
-  />
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nextjs,nodejs,python,fastapi,postgres,docker,git,github,vscode&amp;theme=dark&amp;perline=14"
+      alt="Core technology stack"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white" alt="Dapper" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&amp;logo=swagger&amp;logoColor=85B4FF" alt="REST APIs" />
 </p>
 
 ## Engineering Principles
@@ -101,11 +137,33 @@ Action engines, lifecycle transitions, approvals, validations, audit trails, and
 
 ## Selected Focus
 
-Enterprise software architecture, AI-native product development, ERP and SaaS platforms, product requirement compilers, metadata and schema designers, workflow and action engines, and controlled AI agents.
+<p align="center">
+  <img src="https://img.shields.io/badge/Enterprise%20Software%20Architecture-050B14?style=for-the-badge&amp;labelColor=0B1F3A" alt="Enterprise Software Architecture" />
+  <img src="https://img.shields.io/badge/AI--Native%20Product%20Development-050B14?style=for-the-badge&amp;labelColor=1D4ED8" alt="AI-Native Product Development" />
+  <img src="https://img.shields.io/badge/ERP%20and%20SaaS%20Platforms-050B14?style=for-the-badge&amp;labelColor=334155" alt="ERP and SaaS Platforms" />
+  <img src="https://img.shields.io/badge/Product%20Requirement%20Compilers-050B14?style=for-the-badge&amp;labelColor=0F766E" alt="Product Requirement Compilers" />
+  <img src="https://img.shields.io/badge/Metadata%20and%20Schema%20Designers-050B14?style=for-the-badge&amp;labelColor=2563EB" alt="Metadata and Schema Designers" />
+  <img src="https://img.shields.io/badge/Workflow%20and%20Action%20Engines-050B14?style=for-the-badge&amp;labelColor=475569" alt="Workflow and Action Engines" />
+  <img src="https://img.shields.io/badge/Controlled%20AI%20Agents-050B14?style=for-the-badge&amp;labelColor=1E3A8A" alt="Controlled AI Agents" />
+</p>
 
-## GitHub Activity
+## GitHub Signal
 
-GitHub is a working surface for platform architecture, product systems, and engineering experiments connected to Cody and adjacent enterprise software work.
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrtytt&amp;theme=github_dark"
+    alt="GitHub profile summary for Mrtytt"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mrtytt&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=050B14&amp;color=93C5FD&amp;line=1D4ED8&amp;point=F8FAFC&amp;area=true&amp;area_color=1D4ED8"
+    alt="GitHub activity graph for Mrtytt"
+  />
+</p>
 
 <p align="center">
   <strong>Building systems that turn complex business requirements into reliable software products.</strong><br />
@@ -116,9 +174,17 @@ GitHub is a working surface for platform architecture, product systems, and engi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/murat-berk-yeti%C5%9Ftirir-040b4023a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://codyworks.com/">
-    <img src="https://img.shields.io/badge/Cody-Website-1D4ED8?style=for-the-badge" alt="Cody Website" />
+    <img src="https://img.shields.io/badge/Cody-Website-1D4ED8?style=for-the-badge&amp;logoColor=white" alt="Cody Website" />
   </a>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:050B14,50:0B1F3A,100:1D4ED8"
+    alt="Footer wave"
+  />
 </p>
