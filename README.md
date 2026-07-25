@@ -8,16 +8,19 @@
   />
 </p>
 
-<h1 align="center">Murat Berk Yetiştirir</h1>
 <h3 align="center">Founder &amp; CTO at <a href="https://codyworks.com/">Cody</a></h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=23&amp;duration=3600&amp;pause=900&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=62&amp;lines=Founder+and+CTO+at+Cody;AI-Assisted+Enterprise+Product+Engineering;Metadata-First+ERP+and+SaaS+Architecture;Business+Runtime+Systems"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=20&amp;duration=2600&amp;pause=700&amp;color=60A5FA&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=44&amp;lines=AI+plans.+Trusted+systems+execute.;Metadata-first+architecture+for+ERP+and+SaaS;Business+requirements+to+working+software+systems;Governed+runtime+operations"
       alt="Founder and CTO profile typing animation"
     />
   </a>
+</p>
+
+<p align="center">
+  <sub>Enterprise platform architecture &middot; AI-assisted product engineering &middot; Governed runtime systems</sub>
 </p>
 
 <p align="center">
@@ -147,19 +150,11 @@ Cody is an AI-assisted enterprise product development platform for translating b
   <img src="https://img.shields.io/badge/Controlled%20AI%20Agents-050B14?style=for-the-badge&amp;labelColor=1E3A8A" alt="Controlled AI Agents" />
 </p>
 
-## GitHub Signal
+## Engineering Signal
 
 <p align="center">
   <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrtytt&amp;theme=github_dark"
-    alt="GitHub profile summary for Mrtytt"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="100%"
+    width="96%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Mrtytt&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=050B14&amp;color=93C5FD&amp;line=1D4ED8&amp;point=F8FAFC&amp;area=true&amp;area_color=1D4ED8"
     alt="GitHub activity graph for Mrtytt"
   />
@@ -184,7 +179,7 @@ Cody is an AI-assisted enterprise product development platform for translating b
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:050B14,50:0B1F3A,100:1D4ED8"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=72&amp;section=footer&amp;color=0:050B14,50:0B1F3A,100:1D4ED8"
     alt="Footer wave"
   />
 </p>
