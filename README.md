@@ -42,6 +42,21 @@
   <img src="https://img.shields.io/badge/Controlled%20Runtime%20Operations-334155?style=for-the-badge&amp;labelColor=050B14" alt="Controlled Runtime Operations" />
 </p>
 
+<p align="center">
+  <img
+    width="96%"
+    src="https://capsule-render.vercel.app/api?type=soft&amp;height=112&amp;color=0:050B14,50:0B1F3A,100:1D4ED8&amp;text=Cody%20Runtime%20Pipeline&amp;fontSize=28&amp;fontColor=F8FAFC&amp;animation=twinkling&amp;desc=Business%20requirements%20to%20governed%20software%20systems&amp;descSize=13&amp;descAlignY=72"
+    alt="Cody runtime pipeline"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=18&amp;duration=2800&amp;pause=700&amp;color=93C5FD&amp;center=true&amp;vCenter=true&amp;width=940&amp;height=48&amp;lines=01+Business+intent+%E2%86%92+Requirement+intelligence;02+Requirements+%E2%86%92+Metadata+schema;03+Metadata+%E2%86%92+Tables+Forms+Grids+Actions;04+Runtime+%E2%86%92+Permissions+Workflows+Reports;05+Governance+%E2%86%92+Audit+Idempotency+Transactions"
+    alt="Animated Cody runtime pipeline"
+  />
+</p>
+
 ## Executive Introduction
 
 <table>
@@ -59,7 +74,22 @@
 
 ## Building Cody
 
-Cody is an AI-assisted enterprise product development platform for translating business requirements into working software systems. It is designed around metadata-first application architecture, configurable ERP/SaaS foundations, and auditable runtime operations.
+Cody is an AI-assisted enterprise product development platform for translating business requirements into working software systems. The complexity is not only interface generation; it is the controlled chain from intent to architecture, runtime behavior, permissions, workflow, documents, reporting, and audit.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Business%20Intent-050B14?style=for-the-badge&amp;labelColor=334155" alt="Business Intent" />
+  <img src="https://img.shields.io/badge/02-Requirement%20Intelligence-050B14?style=for-the-badge&amp;labelColor=1D4ED8" alt="Requirement Intelligence" />
+  <img src="https://img.shields.io/badge/03-Metadata%20Schema-050B14?style=for-the-badge&amp;labelColor=2563EB" alt="Metadata Schema" />
+  <img src="https://img.shields.io/badge/04-Runtime%20Workspace-050B14?style=for-the-badge&amp;labelColor=0F766E" alt="Runtime Workspace" />
+  <img src="https://img.shields.io/badge/05-Governed%20Execution-050B14?style=for-the-badge&amp;labelColor=475569" alt="Governed Execution" />
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=16&amp;duration=2400&amp;pause=600&amp;color=CBD5E1&amp;center=true&amp;vCenter=true&amp;width=900&amp;height=40&amp;lines=The+hard+part+is+not+drawing+screens.;The+hard+part+is+keeping+rules+trusted.;The+hard+part+is+making+automation+auditable.;The+hard+part+is+turning+complexity+into+a+runtime."
+    alt="Animated complexity statement"
+  />
+</p>
 
 <table>
   <tr>
